@@ -11,3 +11,12 @@
   font-weight: bold;
   font-size: 20px;
 }
+.flip {
+  width: 200px;
+  height: 100px;
+  background: red;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 10px;
+  border-color: yellowgreen;
+}
